@@ -9,7 +9,7 @@
 ██║  ██║██╔══██║██║╚██╔╝██║██║   ██║   ██╔══██║██╔══██║
 ██████╔╝██║  ██║██║ ╚═╝ ██║██║   ██║   ██║  ██║██║  ██║
 ╚═════╝ ╚═╝  ╚═╝╚═╝     ╚═╝╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝
-                     S A M A R A K O O N
+                     
 </pre>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=1500&pause=450&color=00F0FF&center=true&vCenter=true&repeat=true&width=850&height=44&lines=damitha%40evil-shown%3A~%24+systemctl+start+engineering.service;%5B+OK+%5D+Loaded+geometry+%2B+CAD+runtime;%5B+OK+%5D+Connected+backend+%2B+automation+pipeline;%5B+OK+%5D+Observability+enabled.+Ready+to+ship.;damitha%40evil-shown%3A~%24+_" alt="Animated terminal boot sequence" />
@@ -29,14 +29,14 @@
 
 </div>
 
-SYSTEM://IDENTITY
+IDENTITY:
 
 <table>
 <tr>
 <td width="58%" valign="top">
 
 <pre>
-damitha@evil-shown
+Code Name : Evil-shown
 ────────────────────────────────────
 Role      Associate Software Engineering
 Work      SPIL Labs
@@ -63,7 +63,7 @@ INPUT ──▶ MODEL ──▶ BUILD ──▶ VERIFY ──▶ OBSERVE ──�
 </pre>
 
 
-SYSTEM://TOOLCHAIN
+TOOLS:
 
 <div align="center">
 
@@ -85,7 +85,7 @@ SYSTEM://TOOLCHAIN
 └────────────────────────────┴─────────────────────────────┴────────────────────────┘
 </pre>
 
-SYSTEM://CAREER_ROUTE
+CAREER ROUTE:
 
 <div align="center">
 
@@ -103,7 +103,7 @@ SYSTEM://CAREER_ROUTE
 I’m expanding into release engineering, infrastructure as code, observability, distributed systems, security, and platform operations—without losing the product-engineering foundation that makes infrastructure useful.
 
 
-SYSTEM://CONNECT
+CONNECT:
 
 <div align="center">
 
