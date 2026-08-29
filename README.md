@@ -18,7 +18,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=2600&pause=600&color=FF8C1A&background=00000000&center=true&vCenter=true&width=650&lines=%24+whoami;%3E+Software+Engineering+Intern+%40+SPIL+Labs;%24+cat+roadmap.txt;%3E+SE+(UG)+-%3E+Senior+SE+-%3E+DevOps;%24+echo+%24LOCATION;%3E+Kandy%2C+Sri+Lanka+%F0%9F%87%B1%F0%9F%87%B0" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=2600&pause=600&color=FF8C1A&background=00000000&center=true&vCenter=true&width=650&lines=%24+WHO+AM+I;%3E+Associate+Software+Engineer+%40+SPIL+Labs;%24+echo+%24LOCATION;%3E+Dambulla%2C+Sri+Lanka+%F0%9F%87%B1%F0%9F%87%B0" alt="Typing SVG" />
 
 <br/>
 
@@ -40,10 +40,6 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=40&section=header&text=THE%20ROAD%20TO%20DEVOPS&fontSize=22&fontColor=ff8c1a&animation=twinkle" width="100%"/>
-
-`Java Internals` → `Linux` → `Docker` → `Kubernetes` → `AWS (CLF-C02 → SAA-C03)` → `Terraform`
-
-*18-month roadmap, grounded in real SPIL project work rather than tutorials.*
 
 </div>
 
