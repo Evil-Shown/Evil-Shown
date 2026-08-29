@@ -14,67 +14,6 @@
 
 <br />
 
-whoami
-
-I’m Damitha Samarakoon, an Associate Software Engineer from Sri Lanka and a BSc (Hons) in Information Technology undergraduate at SLIIT.
-
-I build software at the intersection of geometry, visual tooling, backend systems, and automation. My strongest work is not just making screens look good—it is turning difficult, messy requirements into reliable systems with clear boundaries, measurable behavior, and a path to production.
-
-ROLE       Associate Software Engineer @ SPIL Labs
-FOCUS      CAD tooling · geometry engines · optimization systems · backend services
-NOW        Strengthening cloud, CI/CD, observability, and platform engineering skills
-LOCATION   Dambulla, Sri Lanka
-
-Featured systems
-
-Project
-
-What it demonstrates
-
-GSAP Java Geometry Core
-
-Reusable Java geometry foundations for shape and CAD-oriented software.
-
-Three.js 2D Shape Editor
-
-Interactive visual tooling for creating and manipulating geometry in the browser.
-
-Lotus Wings
-
-MERN product engineering across booking workflows, APIs, authentication, and responsive UX.
-
-SLIIT BookBench
-
-Flutter application for library discovery, reservations, waitlists, and QR check-in.
-
-SCC
-
-A full-stack JavaScript system built with React, Vite, Express, and MongoDB.
-
-Snow Radar
-
-Privacy-first networking concept focused on WireGuard, service architecture, and cross-platform delivery.
-
-What I’m building professionally
-
-At SPIL Labs, I work on software for glass manufacturing and optimization—including geometry processing, parametric shape tooling, service integration, and workflows that connect engineering logic to usable software.
-
-That experience has shaped how I approach engineering:
-
-model the domain before writing the feature;
-
-make accuracy and failure modes explicit;
-
-separate services around real ownership boundaries;
-
-automate repeatable work;
-
-measure performance instead of guessing;
-
-ship systems that other engineers can understand and operate.
-
-Engineering stack
-
 <div align="center">
 
 <p><strong>Application & systems development</strong></p>
@@ -91,26 +30,6 @@ Engineering stack
 <img src="https://skillicons.dev/icons?i=kubernetes,aws,terraform&theme=dark" alt="Cloud and platform engineering technologies" />
 
 </div>
-
-The direction
-
-Associate Software Engineer
-          ↓
-Software Engineer who owns systems end-to-end
-          ↓
-DevOps / Platform Engineer
-          ↓
-Cloud Architect building reliable developer platforms
-
-I’m deliberately expanding beyond feature delivery into release engineering, infrastructure as code, observability, distributed systems, security, and operational excellence.
-
-Build philosophy
-
-Good software is not merely code that works once. It is a system that remains understandable, testable, observable, and useful after the original author has moved on.
-
-I care about the details that compound over time: sensible APIs, clean abstractions, useful logs, predictable deployments, documentation that answers real questions, and designs that leave room for the next version.
-
-GitHub telemetry
 
 <div align="center">
 
