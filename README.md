@@ -22,29 +22,6 @@
 
 </div>
 
-<br/>
-
-```
-
-┌──────────────────────────────────────────────────┐
-│ damitha@evil-shown                                │
-│ ──────────────────                                │
-│ OS       : SriLanka_Linux (Kandy) x86_64          │
-│ Host     : SPIL Labs -- SPIL Opti Team            │
-│ Kernel   : Software-Engineering-UG 4.SLIIT        │
-│ Uptime   : Final Year, still compiling            │
-│ Shell    : full-stack / ui-ux / desktop-apps      │
-│ DE       : Tauri + React + Java (Spring Boot)     │
-│ WM       : GSAP Geometry Core                     │
-│ CPU      : i7-13620H (Problem-Solving Core)       │
-│ GPU      : RTX 4060 8GB (late-night build farm)   │
-│ Memory   : always allocating for one more repo    │
-│ Roadmap  : SE (UG) -> Senior SE -> DevOps         │
-└──────────────────────────────────────────────────┘
-
-```
-
-<br/>
 
 <div align="center">
 
