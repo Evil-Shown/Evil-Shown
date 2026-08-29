@@ -62,24 +62,6 @@ INPUT ──▶ MODEL ──▶ BUILD ──▶ VERIFY ──▶ OBSERVE ──�
  messy    explicit   modular    measured    visible    evidence-led
 </pre>
 
-SYSTEM://SELECTED_BUILDS
-
-<div align="center">
-
-<a href="https://github.com/Evil-Shown/GSAP-Java-Geometry-Core"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Evil-Shown&repo=GSAP-Java-Geometry-Core&hide_border=true&bg_color=05070d&title_color=00f0ff&text_color=c9d1d9&icon_color=39ff14" alt="GSAP Java Geometry Core" /></a>
-<a href="https://github.com/Evil-Shown/Three-js---2D-Shape-Editor"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Evil-Shown&repo=Three-js---2D-Shape-Editor&hide_border=true&bg_color=05070d&title_color=00f0ff&text_color=c9d1d9&icon_color=39ff14" alt="Three.js 2D Shape Editor" /></a>
-
-<a href="https://github.com/Evil-Shown/Snow-Radar"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Evil-Shown&repo=Snow-Radar&hide_border=true&bg_color=05070d&title_color=00f0ff&text_color=c9d1d9&icon_color=39ff14" alt="Snow Radar" /></a>
-<a href="https://github.com/Evil-Shown/SCC"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Evil-Shown&repo=SCC&hide_border=true&bg_color=05070d&title_color=00f0ff&text_color=c9d1d9&icon_color=39ff14" alt="SCC" /></a>
-
-<a href="https://github.com/Evil-Shown/SLIIT-BookBench"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Evil-Shown&repo=SLIIT-BookBench&hide_border=true&bg_color=05070d&title_color=00f0ff&text_color=c9d1d9&icon_color=39ff14" alt="SLIIT BookBench" /></a>
-<a href="https://github.com/Evil-Shown/Lotus-Wings-Airline-Ticket-Reservation-System"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Evil-Shown&repo=Lotus-Wings-Airline-Ticket-Reservation-System&hide_border=true&bg_color=05070d&title_color=00f0ff&text_color=c9d1d9&icon_color=39ff14" alt="Lotus Wings" /></a>
-
-<br />
-
-<a href="https://github.com/Evil-Shown?tab=repositories"><img src="https://img.shields.io/badge/%3E_%20OPEN%20ALL%20REPOSITORIES-00f0ff?style=for-the-badge&labelColor=05070d" alt="Open all repositories" /></a>
-
-</div>
 
 SYSTEM://PRODUCTION_RUNTIME
 
@@ -174,22 +156,6 @@ SYSTEM://CAREER_ROUTE
 
 I’m expanding into release engineering, infrastructure as code, observability, distributed systems, security, and platform operations—without losing the product-engineering foundation that makes infrastructure useful.
 
-SYSTEM://TELEMETRY
-
-<div align="center">
-
-<img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Evil-Shown&theme=github_dark" alt="GitHub profile details" />
-
-<img width="31%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Evil-Shown&theme=github_dark" alt="Repositories per language" />
-<img width="31%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Evil-Shown&theme=github_dark" alt="Most committed languages" />
-<img width="31%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Evil-Shown&theme=github_dark&utcOffset=5.5" alt="Productive time" />
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Evil-Shown&show_icons=true&hide_border=true&include_all_commits=true&rank_icon=github&bg_color=05070d&title_color=00f0ff&icon_color=39ff14&text_color=c9d1d9" alt="GitHub statistics" />
-<img width="48%" src="https://streak-stats.demolab.com/?user=Evil-Shown&hide_border=true&background=05070d&ring=00f0ff&fire=39ff14&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=00f0ff&sideLabels=8b949e&dates=6e7681" alt="GitHub streak" />
-
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=Evil-Shown&bg_color=05070d&color=c9d1d9&line=00f0ff&point=39ff14&area_color=063a42&area=true&hide_border=true&custom_title=LIVE%20CONTRIBUTION%20BUS" alt="Contribution graph" />
-
-</div>
 
 SYSTEM://CONNECT
 
