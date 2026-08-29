@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090b,45:1c1205,100:f59e0b&height=230&section=header&text=DAMITHA%20SAMARAKOON&fontSize=43&fontColor=fff7ed&fontAlignY=35&animation=fadeIn&desc=Associate%20Software%20Engineer%20%7C%20Systems%20Builder%20%7C%20DevOps%20in%20Progress&descAlignY=56&descSize=17&descColor=fbbf24" width="100%" alt="Damitha Samarakoon profile header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090b,45:1c1205,100:f59e0b&height=230&section=header&text=DAMITHA%20SAMARAKOON&fontSize=43&fontColor=fff7ed&fontAlignY=35&animation=fadeIn&desc=Associate%20Software%20Engineer%20%7C%20Systems%20Builder%20%7C%20DevOps+Engineering%20in%20Progress&descAlignY=56&descSize=17&descColor=fbbf24" width="100%" alt="Damitha Samarakoon profile header" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=F59E0B&center=true&vCenter=true&width=760&lines=I+turn+complex+problems+into+working+systems.;Geometry+%C2%B7+CAD+%C2%B7+APIs+%C2%B7+Automation+%C2%B7+Cloud.;Building+with+precision%2C+curiosity%2C+and+obsessive+iteration." alt="Typing introduction" />
 
