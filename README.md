@@ -63,60 +63,6 @@ INPUT ──▶ MODEL ──▶ BUILD ──▶ VERIFY ──▶ OBSERVE ──�
 </pre>
 
 
-SYSTEM://PRODUCTION_RUNTIME
-
-<table>
-<tr>
-<td width="33%" align="center" valign="top">
-<h3>GEOMETRY</h3>
-<p>Parametric shapes<br />coordinate systems<br />validation<br />code generation</p>
-</td>
-<td width="33%" align="center" valign="top">
-<h3>SERVICES</h3>
-<p>API boundaries<br />integration flows<br />data contracts<br />failure handling</p>
-</td>
-<td width="33%" align="center" valign="top">
-<h3>DELIVERY</h3>
-<p>automation<br />containers<br />repeatable releases<br />operational visibility</p>
-</td>
-</tr>
-</table>
-
-At SPIL Labs, I contribute to engineering software for glass manufacturing and optimization—working across geometry processing, parametric CAD tooling, service integration, and computer-vision-assisted workflows.
-
-<details>
-<summary><strong>View operating principles</strong></summary>
-
-Signal
-
-Engineering rule
-
-01
-
-Model the domain before implementing the feature.
-
-02
-
-Treat accuracy and failure modes as first-class requirements.
-
-03
-
-Draw service boundaries around real ownership.
-
-04
-
-Automate repeatable work and remove fragile handoffs.
-
-05
-
-Measure performance instead of debating assumptions.
-
-06
-
-Leave systems understandable for the next engineer.
-
-</details>
-
 SYSTEM://TOOLCHAIN
 
 <div align="center">
